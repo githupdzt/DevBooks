@@ -59,17 +59,15 @@
 
 ## 分享
 
-分享给大家这些收集的电子书籍，你们就不用到各处去查找或下载了，只需动动手指点击右上方star一下，可以随时随地来下载查看，书籍会不断的更新；您也可以参与到这个分享中来，会标注你为分享者。
-
-![](https://github.com/coolspan/DevBooks/blob/master/images/group/2081552545915_.pic_hd.jpg)
+分享给大家这些收集的电子书籍，你们就不用到各处去查找或下载了，期待您点击右上方⭐️star⭐️一下，可以随时随地来下载查看，书籍会不断的更新；您也可以参与到这个分享中来，会标注你为分享者。
 
 欢迎加入Android技术交流群(208098259)[![](http://pub.idqqimg.com/wpa/images/group.png)](//shang.qq.com/wpa/qunwpa?idkey=9ef987517599d80549c8a38828e337341b7cb2c65e2c131ce6b3c987f776e723)，一起交流学习。
+群二维码: <a href="https://github.com/coolspan/DevBooks/blob/master/images/group/2081552545915_.pic_hd.jpg" target="_blank">查看</a>
 
 
 
 ## 公众号
-
-![](https://github.com/coolspan/DevBooks/blob/master/images/wx/qrcode_for_gh_b9dfd03f7c00_860.jpg)
+<img src="https://github.com/coolspan/DevBooks/blob/master/images/wx/qrcode_for_gh_b9dfd03f7c00_860.jpg" width="40%" />
 
 欢迎大家的关注，谢谢您的支持，您的支持是我不断前进的动力。
 
